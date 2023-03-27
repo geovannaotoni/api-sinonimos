@@ -4,7 +4,7 @@ Projeto Pessoal de um aplicação que exibe alguns sinônimos da língua portugu
 
 ## :computer: Visualize este projeto:
 Acesse a página aqui:
-[]()
+[https://geovannaotoni-sinonimos.surge.sh/](https://geovannaotoni-sinonimos.surge.sh/)
 
 ## :bulb: Habilidades:
 Feito a partir dos conhecimentos de CSS, HTML, JavaScript, DOM, Eventos, API, NPM, Vite, Promisses, Fetch, Async e Await.
