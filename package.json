@@ -13,6 +13,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "sweetalert2": "^11.7.3",
     "vite": "^4.2.1"
   }
 }
